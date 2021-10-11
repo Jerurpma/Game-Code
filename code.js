@@ -19,7 +19,7 @@ document.write("<br/>")
 }
 else if (die1== die2 && die1%2 == 0) //showing that is die 1 and die 2 are the same then you obtain doubles and are the winner and that if there isnt a doubles or 7 and or 11 then there is no winner or loser.
 {
-document.write("DOUBLES - you win")
+document.write("DOUBLES - you win") //Showing that when you roll doubles you win.
 document.write("<br/>")
 }
 
